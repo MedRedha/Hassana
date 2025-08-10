@@ -1,0 +1,8 @@
+.env
+.ask/
+*.log
+.idea/
+.vscode/
+node_modules/
+ask-resources.json
+lambda/node_modules

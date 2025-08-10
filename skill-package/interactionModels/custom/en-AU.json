@@ -1,0 +1,97 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [
+            {
+              "name": "City",
+              "type": "AMAZON.City"
+            },
+            {
+              "name": "Prayer",
+              "type": "PrayerName"
+            }
+          ],
+          "name": "PrayerTimesIntent",
+          "samples": [
+            "when is {Prayer} in {City}",
+            "prayer times in {City}",
+            "what are the prayer times for {City}"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "Sunrise"
+              }
+            },
+            {
+              "name": {
+                "value": "Isha"
+              }
+            },
+            {
+              "name": {
+                "value": "Maghrib"
+              }
+            },
+            {
+              "name": {
+                "value": "Asr"
+              }
+            },
+            {
+              "name": {
+                "value": "Dhuhr"
+              }
+            },
+            {
+              "name": {
+                "value": "Fajr"
+              }
+            }
+          ],
+          "name": "PrayerName"
+        }
+      ],
+      "invocationName": "my hassana"
+    }
+  }
+}
