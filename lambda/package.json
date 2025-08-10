@@ -1,13 +1,13 @@
 {
-  "name": "hello-world",
-  "version": "1.2.0",
-  "description": "alexa utility for quickly building skills",
+  "name": "hassana",
+  "version": "1.0.0",
   "main": "index.js",
+  "license": "MIT License",
+  "author": "Mohamed Redha Khelifi",
+  "description": "Your daily companion for Islamic prayer times",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amazon Alexa",
-  "license": "Apache License",
   "dependencies": {
     "ask-sdk-core": "^2.7.0",
     "ask-sdk-model": "^1.19.0",
