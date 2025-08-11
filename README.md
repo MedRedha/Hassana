@@ -9,7 +9,13 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub package.json version" src="https://img.shields.io/github/lambda/package-json/v/MedRedha/Hassana?style=flat&color=blueviolet&label=Version&logo=GitHub">
+  <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/MedRedha/Hassana?filename=lambda/package.json&style=flat&color=blueviolet&label=Version&logo=devbox">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MedRedha/Hassana?logo=dailydotdev&color=red">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/MedRedha/Hassana?&logo=openaccess">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/MedRedha/Hassana?logo=git">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MedRedha/Hassana?style=flat&logo=polestar&color=gold">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/MedRedha/Hassana">
+  
 </p>
 
 <p align="center"> 
