@@ -42,7 +42,7 @@
 
 In the name of **Allah**, the Most Gracious, the Most Merciful.
 
-This project was born from a simple, heartfelt need. My wife, **Khadidja**, (_may Allah bless her_), as we live in a
+This project was born from a simple, heartfelt need. My wife, (_may Allah bless her_), as we live in a
 country
 with few
 mosques, and she deeply missed hearing the beautiful call to prayer (_the Adhan_) five times a day.
